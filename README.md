@@ -8,7 +8,7 @@
 
 <div align="center">
 
-`~/info --badges`
+<h2>Badges</h2>
 
 ![Degree](https://img.shields.io/badge/B.Tech-Information%20Technology%20(Honours)-FF6B35?style=flat-square&labelColor=0D1117)
 ![University](https://img.shields.io/badge/M.A.M%20College%20of%20Engineering-2023--2027-FFB347?style=flat-square&labelColor=0D1117)
@@ -18,7 +18,7 @@
 
 <div align="center">
 
-`~/connect --links`
+<h2>Links</h2>
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-FF6B35?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117)](https://www.ragesh.in/)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-4EA8DE?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/ragesh1208/)
@@ -35,7 +35,7 @@
 
 <br/>
 
-### `$ cat about.md`
+# About
 
 I'm an IT undergraduate (B.Tech, Honours) building AI-powered and full-stack applications end to end — from real-time multimodal pipelines to production-style tutoring platforms. I care about shipping things that actually work under real constraints, not just demos.
 
@@ -51,7 +51,7 @@ const ragesh = {
 
 <br/>
 
-### `$ ls tech-stack/`
+# Tech-Stack
 
 <div align="center">
 
@@ -67,7 +67,7 @@ const ragesh = {
 
 <br/>
 
-### `$ echo $SPECIALTY`
+# Specialty
 
 <div align="center">
 
@@ -80,7 +80,7 @@ const ragesh = {
 
 <br/>
 
-### `$ cat expertise.table`
+# Expertise Table
 
 | Domain | Proficiency | Details |
 |---|:---:|---|
@@ -93,7 +93,7 @@ const ragesh = {
 
 <br/>
 
-### `$ ls -la featured-projects/`
+# Featured Projects
 
 <details open>
 <summary><b>🛰️ RescueLens-AI — Multimodal AI Assistant</b></summary>
@@ -145,7 +145,7 @@ Fully responsive, 3D-animated personal branding website with mobile-first layout
 
 <br/>
 
-### `$ git log --experience`
+# Experience
 
 **Artificial Intelligence Intern** · Novitech R&D Private Limited
 `March 2024 — April 2024` · Coimbatore, Tamil Nadu (Remote)
@@ -158,7 +158,7 @@ Fully responsive, 3D-animated personal branding website with mobile-first layout
 
 <br/>
 
-### `$ cat achievements.md`
+# Achievements
 
 <div align="center">
 
@@ -172,7 +172,7 @@ Fully responsive, 3D-animated personal branding website with mobile-first layout
 
 <br/>
 
-### `$ cat education.badge`
+# Education
 
 <div align="center">
 
@@ -182,7 +182,7 @@ Fully responsive, 3D-animated personal branding website with mobile-first layout
 
 <br/>
 
-### `$ curl github-analytics/`
+# Github Analytics
 
 <div align="center">
 
@@ -195,17 +195,9 @@ Fully responsive, 3D-animated personal branding website with mobile-first layout
 
 <br/>
 
-### `$ open trophies/`
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=MrRagesh&theme=onedark&no-frame=true&no-bg=false&row=1&column=7&margin-w=12&margin-h=12)
-
-</div>
-
 <br/>
 
-### `$ plot activity.graph`
+# Plot Activity.Graph
 
 <div align="center">
 
@@ -215,7 +207,7 @@ Fully responsive, 3D-animated personal branding website with mobile-first layout
 
 <br/>
 
-### `$ cat summary-cards.json`
+# Summary Cards
 
 <div align="center">
 
@@ -231,19 +223,12 @@ Fully responsive, 3D-animated personal branding website with mobile-first layout
 
 <br/>
 
-### `$ ./snake.sh --contribution-grid`
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/MrRagesh/MrRagesh/output/github-contribution-grid-snake-dark.svg)
-
-</div>
 
 <sub align="center">Generated via the [Platane/snk](https://github.com/Platane/snk) GitHub Action — enable it in this repo's Actions tab to activate.</sub>
 
 <br/>
 
-### `$ cat current-focus.yaml`
+# Current-Focus
 
 ```yaml
 learning:
@@ -264,7 +249,7 @@ open_to:
 
 ---
 
-### `$ ./connect.sh --all`
+# Connect
 
 <div align="center">
 
