@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,100:FF6B35&height=220&section=header&text=RAGESH%20P&fontSize=60&fontColor=FF6B35&fontAlignY=40&desc=AI%20Application%20Developer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20%26%20Automation%20Enthusiast&descSize=18&descAlignY=62&descColor=F5F5F5&animation=fadeIn" width="100%"/>
+<img src="[https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,100:FF6B35&height=220&section=header&text=RAGESH%20P&fontSize=60&fontColor=FF6B35&fontAlignY=40&desc=AI%20Application%20Developer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20%26%20Automation%20Enthusiast&descSize=18&descAlignY=62&descColor=F5F5F5&animation=fadeIn](https://capsule-render.vercel.app/api?type=rect&height=300&color=gradient&text=Ragesh%20P&animation=twinkling)" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=FF6B35&background=00000000&center=true&vCenter=true&width=650&lines=%24+whoami+%3E+Ragesh+P;%24+role+%3D+%22AI+App+Dev+%2F+Full+Stack+Dev%22;%24+building+%3D+%5B%22RescueLens-AI%22%2C+%22SimplifyED%22%5D;%24+stack+%3D+%5B%22Python%22%2C+%22React%22%2C+%22Gemini+API%22%5D;%24+status+%3D+%22Open+to+Internships+2026%22" alt="Typing SVG" />
 
