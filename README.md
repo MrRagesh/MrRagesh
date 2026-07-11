@@ -42,7 +42,7 @@ I'm an IT undergraduate (B.Tech, Honours) building AI-powered and full-stack app
 ```bash
 const ragesh = {
   role:       "AI Application Developer | Full Stack Developer | AI and Automation Enthusiast",
-  education: "B.Tech Information Technology",
+  education:  "B.Tech Information Technology",
   domain:     "AI Applications, Full-Stack Web, Automation",
   stack:      ["Python", "JavaScript", "React.js", "Node.js", "Google Gemini API"],
   open_to:    ["AI Application Developer", "Full Stack Developer", "AI Automation"]
