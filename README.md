@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,50:FF6B35,100:FFB347&height=220&section=header&text=RAGESH%20P&fontSize=60&fontColor=E6EDF3&fontAlignY=40&desc=AI%20Application%20Developer%20%7C%20Full%20Stack%20Developer&descAlignY=60&descSize=18&descColor=FFB347&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,50:FF6B35,100:FFB347&height=220&section=header&text=RAGESH%20P&fontSize=60&fontColor=E6EDF3&fontAlignY=40&desc=AI%20Application%20Developer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20and%20Automation%20Enthusiast&descAlignY=60&descSize=18&descColor=FFB347&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=FF6B35&background=0D1117&center=true&vCenter=true&width=780&height=110&lines=%24+whoami;Ragesh+P+%E2%80%94+AI+%26+Full-Stack+Developer;%24+stack+%3D+%5B%22Python%22%2C+%22React%22%2C+%22Gemini+API%22%5D;%24+status+%3D+%22Pre-final+year+B.Tech+%7C+Open+to+Internships%22;%24+./ship_something.sh+--production-ready" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=FF6B35&background=0D1117&center=true&vCenter=true&width=780&height=110&lines=%24+Who+Am+I;Ragesh+P+%E2%80%94+AI+%26+Full-Stack+Developer;%24+stack+%3D+%5B%22Python%22%2C+%22React%22%2C+%22Gemini+API%22%5D;%24+status+%3D+%22B.Tech+Information+Technology+%7C+Open+to+Work%22;%24+" alt="Typing SVG" />
 
 </div>
 
@@ -41,11 +41,11 @@ I'm an IT undergraduate (B.Tech, Honours) building AI-powered and full-stack app
 
 ```bash
 const ragesh = {
-  role:       "AI Application Developer / Full Stack Developer",
-  experience: "Pre-final year B.Tech student",
+  role:       "AI Application Developer | Full Stack Developer | AI and Automation Enthusiast",
+  education: "B.Tech Information Technology",
   domain:     "AI Applications, Full-Stack Web, Automation",
   stack:      ["Python", "JavaScript", "React.js", "Node.js", "Google Gemini API"],
-  open_to:    ["AI Application Developer Internships", "Full Stack Developer Internships", "AI Automation Internships"]
+  open_to:    ["AI Application Developer", "Full Stack Developer", "AI Automation"]
 };
 ```
 
