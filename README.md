@@ -6,7 +6,7 @@
 
 </div>
 
-# Plot Activity.Graph
+## Plot Activity Graph
 
 <div align="center">
 
