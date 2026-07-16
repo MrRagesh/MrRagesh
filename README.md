@@ -6,6 +6,16 @@
 
 </div>
 
+# Plot Activity.Graph
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MrRagesh&bg_color=0D1117&color=FF6B35&line=FF6B35&point=FFB347&area=true&area_color=FF6B35&hide_border=true)
+
+</div>
+
+<br/>
+
 <div align="center">
 
 <h2>Badges</h2>
@@ -194,16 +204,6 @@ Fully responsive, 3D-animated personal branding website with mobile-first layout
 </div>
 
 <br/>
-
-<br/>
-
-# Plot Activity.Graph
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MrRagesh&bg_color=0D1117&color=FF6B35&line=FF6B35&point=FFB347&area=true&area_color=FF6B35&hide_border=true)
-
-</div>
 
 <br/>
 
